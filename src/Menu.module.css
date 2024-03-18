@@ -1,0 +1,25 @@
+.Menu {
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 50px;
+}
+
+.Menu li {
+    list-style-type: none;
+}
+
+.MenuLink {
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.MenuLink:hover {
+    color: grey;
+    transition: 0.5s;
+}
+
+p {
+    padding: 0 10%;
+}
