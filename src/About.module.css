@@ -1,3 +1,10 @@
 .ApiList {
     margin: 150px;
 }
+
+.pages {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    margin-top: -100px;
+}
