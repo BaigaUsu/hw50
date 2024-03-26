@@ -1,0 +1,47 @@
+[
+    {
+        "id": 5,
+        "name": "Iphone 11 Pro Max",
+        "image": "http://2acf-212-112-126-232.ngrok-free.app/products/2024/03/25/iphone-11-pro-max-silver.jpg",
+        "description": "Iphone 11 Pro Max Description\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ex libero, iaculis in risus id, accumsan lacinia nulla. Maecenas pulvinar ipsum a risus imperdiet fermentum. Proin vitae magna maximus, maximus dui in, tristique orci. Quisque at enim tristique, accumsan metus ut, suscipit dolor. Suspendisse a diam vel dolor rhoncus elementum. Nullam auctor arcu quis tellus gravida dictum. Nullam turpis ante, suscipit eu tortor vitae, rhoncus varius elit. Proin dapibus turpis ut est porta dictum. Etiam pulvinar magna augue, vel venenatis risus convallis sed.",
+        "price": "1100.00",
+        "available": true,
+        "get_url": "https://2acf-212-112-126-232.ngrok-free.app/shop/product/detail/iphone-11-pro-max/"
+    },
+    {
+        "id": 4,
+        "name": "Iphone 12 Pro Max",
+        "image": "http://2acf-212-112-126-232.ngrok-free.app/products/2024/03/25/201230150015106722.jpg",
+        "description": "Iphone 13 Pro Max Description\r\n\r\nInteger dolor mi, convallis vitae lectus quis, ultricies egestas est. Nulla pretium justo nec rhoncus commodo. Quisque aliquam urna et turpis molestie aliquet. Suspendisse vestibulum et nisl sit amet iaculis. Praesent ornare sapien urna, sit amet consequat felis tincidunt molestie. Integer varius justo vel leo convallis tempus. Maecenas non arcu vitae risus tristique maximus et feugiat dui. Donec ullamcorper erat faucibus tempus dapibus. Suspendisse justo dolor, iaculis non urna in, egestas ornare ipsum. Mauris diam tortor, gravida ac sem id, commodo iaculis turpis. Sed gravida massa ac risus dapibus, sed placerat arcu sodales. Sed quis lectus in risus convallis vehicula. Sed vel arcu feugiat, aliquam eros at, euismod ipsum. Sed non molestie elit. Cras venenatis posuere nisi, eu ullamcorper ante facilisis at.",
+        "price": "1200.00",
+        "available": true,
+        "get_url": "https://2acf-212-112-126-232.ngrok-free.app/shop/product/detail/iphone-12-pro-max/"
+    },
+    {
+        "id": 3,
+        "name": "Iphone 13 Pro Max",
+        "image": "http://2acf-212-112-126-232.ngrok-free.app/products/2024/03/25/210929160017653222.jpg",
+        "description": "Iphone 13 Pro Max Description\r\n\r\nCurabitur mattis, nisi nec ultricies laoreet, augue quam interdum lorem, sed tristique eros metus ut ipsum. Sed fringilla magna id elit consectetur, a pulvinar tellus blandit. Maecenas non leo eu arcu dignissim dignissim. Proin sed lorem ligula. Maecenas vestibulum pharetra nisi et egestas. Ut volutpat vulputate ligula sed lacinia. Aliquam elementum vestibulum enim in lacinia. Vestibulum nibh sapien, tincidunt eu orci in, malesuada tincidunt orci. Nulla neque ex, facilisis vel fringilla sit amet, euismod a nulla. Morbi sed aliquet libero, non bibendum dui. Praesent rhoncus, est sed placerat dignissim, mi nisl dignissim massa, eu accumsan eros massa vitae sapien. Pellentesque sagittis mattis erat a dapibus. Ut auctor porttitor felis, in lacinia massa tristique at.",
+        "price": "1300.00",
+        "available": true,
+        "get_url": "https://2acf-212-112-126-232.ngrok-free.app/shop/product/detail/iphone-13-pro-max/"
+    },
+    {
+        "id": 2,
+        "name": "Iphone 14 Pro Max",
+        "image": "http://2acf-212-112-126-232.ngrok-free.app/products/2024/03/25/221010160020163189.jpg",
+        "description": "Iphone 14 Pro Max Description\r\n\r\nMaecenas sit amet lacus lorem. Sed aliquet, lectus a viverra venenatis, nibh massa auctor risus, nec porta enim lorem at augue. Curabitur suscipit id leo eu facilisis. Morbi hendrerit lobortis elit, at euismod elit fermentum eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum at elit in porttitor. Nullam tempus, turpis non volutpat maximus, orci orci gravida arcu, nec consequat dolor odio vel augue. Vestibulum a augue ante. Integer vulputate mattis tellus at faucibus. Cras tristique vestibulum mi, sit amet elementum nibh malesuada a.",
+        "price": "1400.00",
+        "available": true,
+        "get_url": "https://2acf-212-112-126-232.ngrok-free.app/shop/product/detail/iphone-14-pro-max/"
+    },
+    {
+        "id": 1,
+        "name": "Iphone 15 Pro Max",
+        "image": "http://2acf-212-112-126-232.ngrok-free.app/products/2024/03/25/Apple-iPhone-15-Pro-Max_bL0ZSr8.jpg",
+        "description": "Iphone 15 Pro Max Description\r\n\r\nNulla finibus dapibus varius. Integer non mi viverra, faucibus diam eget, rutrum magna. Duis elementum tortor non ante convallis bibendum. Duis laoreet pulvinar leo ut iaculis. Mauris vitae rutrum ante. Pellentesque dapibus est et libero iaculis facilisis tempor et eros. Vivamus at elit non quam porta elementum.",
+        "price": "1500.00",
+        "available": true,
+        "get_url": "https://2acf-212-112-126-232.ngrok-free.app/shop/product/detail/iphone-15-pro-max/"
+    }
+]
